@@ -1,5 +1,5 @@
 module.exports = {
-    botToken: "MTIyNjIxNzE1ODE1NDEyOTYwOA.GOKcxz.AbV_xf4JyRi9G3q6owTOjTrWo2heIYhL_PSti4",
+    botToken: "MTIyNjIxNzE1ODE1NDEyOTYwOA.G9VH2Y.f3d7qwVkSp4X74QmcNpJxQ_Ry3_rNU6cL0ct6U",
     clientOwner: ["795204246046769182"],
     prefix: ["."],
 
